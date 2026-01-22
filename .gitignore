@@ -34,10 +34,6 @@ tmp/
 *.class
 *.pyc
 
-# Ignore uploads or user-generated content
-uploads/
-storage/
-
 # Ignore backup files
 *.bak
 *.old
